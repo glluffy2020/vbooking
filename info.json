@@ -1,6 +1,6 @@
 {
-  version:1.0.0,
-  status:open,
-  title:'请升级',
-  content:'<ul><li>aaa</li></ul>'
+  'version:'1.0.0',
+  'status':'open',
+  'title':'请升级',
+  'content':'<ul><li>aaa</li></ul>'
 }
